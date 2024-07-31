@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1706115105 source:c:\users\pmls\desktop\chess\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+
